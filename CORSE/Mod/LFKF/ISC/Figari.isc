@@ -1,0 +1,85 @@
+[INFO]
+N041.30.08.745
+E009.05.48.939
+60
+39.6
+1
+FR\LFMM
+
+[COLORSCHEME]
+F;Mod\LFKF\Couleurs et profile\FIGARI.clr
+
+[PROFILE]
+F;Mod\LFKF\Couleurs et profile\FIGARI.cpr
+
+[SYMBOLS]
+F;Mod\LFKF\Figari.sym
+
+[DEFINE]
+F;FR\LFMM\Mod\LFKF\Figari.dfn
+
+[AIRPORT]
+F;Mod\LFKF\lfmm.apt
+
+[RUNWAY]
+F;lfmm.rwy
+
+[GATES]
+
+[TAXIWAY]
+
+[FIXES]
+F;lfmm.fix
+
+[VOR]
+F;lfmm.vor
+
+[NDB]
+F;lfmm.ndb
+
+[HIGH AIRWAY]
+F;lfmm.hawy
+
+[LOW AIRWAY]
+F;lfmm.lawy
+
+[SID]
+
+[STAR]
+
+[VFRFIX]
+
+[VFRROUTE]
+// ID;LAT;LON;
+
+[ARTCC]
+
+[ARTCC HIGH]
+F;zone_corse\lfkb.hartcc
+F;zone_corse\lfkj.hartcc
+
+[ARTCC LOW]
+F;zone_corse\lfkb.lartcc
+F;zone_corse\lfkc.lartcc
+F;zone_corse\lfkf.lartcc
+F;zone_corse\lfkj.lartcc
+
+[MVA]
+[GEO]
+// LAT1;LON1;LAT2;LON2;color ID ('basic included color' or 'color defined in (DEFINE)' or 'RGB')
+F;lfmm.geo
+F;zone_corse\lfkb.gnd
+F;zone_corse\lfkc.gnd
+F;zone_corse\lfkf.gnd
+F;zone_corse\lfkg.gnd
+F;zone_corse\lfkj.gnd
+F;zone_corse\lfko.gnd
+F;zone_corse\lfkt.gnd
+
+
+[FILLCOLOR]
+F;Mod\LFKF\TFL\Corse.tfl
+F;Mod\LFKF\TFL\CTR.tfl
+
+[ATC]
+F;zone_corse\lfkf.atc
