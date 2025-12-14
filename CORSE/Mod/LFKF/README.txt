@@ -2,6 +2,8 @@ Installation ---
 
 Placer le dossier Mod dans C:\Aurora\SectorFiles\Include\FR\LFMM
 Placer le fichier .isc dans votre dossier sectorfiles.
+Placer le fichier lfkf.str dans le dossier C:\Aurora\SectorFiles\Include\FR\LFMM et remplacer l'ancien (il reste dans le dossier BASE STAR)
+
 Ne pas placer les fichier .clr et .cpr dans les dossier d'Aurora ils s'ouvriront avec le secteur.
 
 
