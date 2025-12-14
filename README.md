@@ -1,4 +1,4 @@
-Intrsutcion d'installation:
+Intrsuction d'installation:
 
 Télécharger le package complet
 Dans le dossier souhaité, ajouter le fichier xxxx.ISC dans le dossier Sectorfile d'Aurora
